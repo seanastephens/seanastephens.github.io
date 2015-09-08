@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sean Stephens's Personal Page
+title: Sean Stephens\'s Personal Page
 ---
 
 Sean\'s . . .
