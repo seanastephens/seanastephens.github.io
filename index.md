@@ -3,10 +3,11 @@ layout: default
 title: Sean Stephens\'s Personal Page
 ---
 
-Sean\'s . . .
+Personal Projects
 ===========
+Sean Stephens
 
-. . . barely-working page with links to some personal projects.
+A minimal webpage with links to some personal and class projects.
 
  - [Data Vis Final Project](http://seanastephens.github.io/us_county/) - 
    US census data (with [Brian Lee](http://e-bri.com/))
