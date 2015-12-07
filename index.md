@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Sean Stephens\'s Personal Page
+title: Sean Stephens's Personal Page
 ---
 
-Personal Projects
-===========
 Sean Stephens
+===========
 
-A minimal webpage with links to some personal and class projects.
+Math and Computer Science major at the University of Arizona
+
+Personal Projects
 
  - [Data Vis Final Project](http://seanastephens.github.io/us_county/) - 
    US census data (with [Brian Lee](http://e-bri.com/))
