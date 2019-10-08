@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Sean Stephens's Personal Page
+title: Sean's Personal Page
 ---
-
-Sean Stephens
-===========
-
-Math and Computer Science major, graduated from the University of Arizona in 2017.
 
 Things
 
